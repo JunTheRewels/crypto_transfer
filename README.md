@@ -1,4 +1,4 @@
-# hw_m19_crypto_transfer
+# crypto_transfer
 
 This repo contains files for the Fintech Finder platform that enables customers to send cryptocurrency payments to fintech professionals that they select and hire. It contains 2 files that are used to allow transfer inputs through a streamlit user interface.
 
